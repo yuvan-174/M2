@@ -13,7 +13,7 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 7.	Continue the loop until you have iterated through all numbers from M to N.
 
 ## PROGRAM:
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -54,7 +54,7 @@ Write a C program to print the given triangular pattern using loop.
 
 ## PROGRAM:
 ## PROGRAM:
-```
+```c
 #include<stdio.h>
 int main()
 {
@@ -100,8 +100,7 @@ Write a C program to perform addition and subtraction of two numbers using funct
 4.	Call the addition and subtraction functions, passing the two numbers as arguments.
 
 ## PROGRAM:
-```
-
+```c
 #include<stdio.h>
 int add(int,int);
 int sub(int,int);
@@ -157,7 +156,7 @@ Write a c program to find the sum of odd digits using for loop
 6.	Print the sum of odd digits.
 
 ## PROGRAM:
-```
+```c
 #include<stdio.h>
 int main()
 {
@@ -204,7 +203,7 @@ d.	After the loop, print the factorial value.
 5.	End
 
 ## PROGRAM:
-```
+```c
 #include<stdio.h>
 int main()
 {
